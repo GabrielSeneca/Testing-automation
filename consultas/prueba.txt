@@ -1,0 +1,12 @@
+Jorge,123
+Maria,87654
+daniel,1
+123,daniel
+1=1,jorge
+jorge,true
+,987
+987,
+Daniel,clave=1
+Dañiel,1
+Dániel,1
+Daniel,1
